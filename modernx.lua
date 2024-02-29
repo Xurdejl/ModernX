@@ -128,7 +128,7 @@ local icons = {
   next = '\239\142\180',
   play = '\239\142\170',
   pause = '\239\142\167',
-  replay = '', -- copied private use character
+  replay = '\239\142\178', -- copied private use character
   backward = '\239\142\160',
   forward = '\239\142\159',
   audio = '\239\142\183',
@@ -142,7 +142,7 @@ local icons = {
   loopon = '\239\142\174', 
   info = '\239\135\183',
   download = '\239\136\160',
-  downloading = '\239\134\185',
+  downloading = '\239\132\128',
   ontopon = '\239\142\150',
   ontopoff = '\239\142\149',
 }
